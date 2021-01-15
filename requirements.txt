@@ -1,0 +1,9 @@
+Django==3.0.6
+djangorestframework_simplejwt==4.4.0
+requests==2.23.0
+djangorestframework==3.11.0
+pycryptodome==3.9.8
+PyJWT==1.7.1
+mysqlclient==2.0.1
+cryptography==2.9.2
+moment==0.11
